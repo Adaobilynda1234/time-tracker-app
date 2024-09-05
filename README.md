@@ -1,10 +1,11 @@
-#Time tracker project
+# Time tracker project
 
-##Features of Time Tracking Application
-i. Effortlessly track and manage tasks based on different time periods such as weeks, months, and overall total. The application allows users to view and analyze their task dataaccording to specific time ranges. Users can easily calculate and monitor the total time spent on tasks for each period.
+## Features of Time Tracking Application
 
-ii.Authentication
+i. Effortlessly track and manage tasks based on different time periods such as weeks, months, and overall total. The application allows users to view and analyze their task data according to specific time ranges. Users can easily calculate and monitor the total time spent on tasks for each period.
 
-iii.Protected Route
+ii. Authentication
 
-iv.Track Tasks by Weeks, Months, and Total
+iii. Protected Route
+
+iv. Track Tasks by Weeks, Months, and Total
