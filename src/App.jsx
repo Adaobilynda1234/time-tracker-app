@@ -9,7 +9,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/login" element={<Login />} />
-        <Route path="/create-task" element={<CreateTaskPage />} />
+        <Route path="/createtask" element={<CreateTaskPage />} />
       </Routes>
       {/* Footer */}
       <Footer />
