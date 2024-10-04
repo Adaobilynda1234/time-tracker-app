@@ -15,7 +15,7 @@ function CreateTaskPage() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
   const [success, setsuccess] = useState(false);
-  const navigate = useNavigate();
+  // const navigate = useNavigate();
 
   //Create task handler
   const handleSubmit = async (event) => {
